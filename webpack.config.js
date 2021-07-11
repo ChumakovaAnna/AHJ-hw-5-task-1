@@ -9,7 +9,7 @@ module.exports = {
     filename: "app.bundle.js",
   },
   devServer: {
-    port: 9000,
+    // port: 9000,
   },
   mode: "production",
   devtool: "inline-source-map",
